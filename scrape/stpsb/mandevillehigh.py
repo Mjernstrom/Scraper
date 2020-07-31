@@ -1,3 +1,4 @@
+# Author: Matthew Jernstrom
 import os
 from urllib.request import urlopen, re
 from bs4 import BeautifulSoup as soup 
